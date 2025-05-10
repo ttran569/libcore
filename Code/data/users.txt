@@ -1,0 +1,4 @@
+KT,Kartik Tripathi,abcde,1792 Panda Way,510-925-8771,STAFF
+SL,Steven Le,12345,25800 Carlos Bee Blvd,510-748-3921,MEMBER
+AF,Alejandro Fernandez,6789,1901 Harder Road,510-932-1184,MEMBER
+TT,Thomas Tran,efghi,899 Blossom Ln,510-741-5509,MEMBER
